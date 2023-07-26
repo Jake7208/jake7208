@@ -28,8 +28,8 @@ Some of the technologies and frameworks I'm familiar with include:
 
 ## Contact
 
-    Email: Jacob.andrew.price@gmail.com
-    LinkedIn: [LinkedIn](https://www.linkedin.com/in/jacob-price1/)
-    Personal Portfolio Website: https://jacobprice.dad
+Email: Jacob.andrew.price@gmail.com
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/jacob-price1/)
+Personal Portfolio Website: [portfolio](https://jacobprice.dad)
 
 Feel free to get in touch if you have any questions, want to collaborate, or just want to chat about coding and creativity!
